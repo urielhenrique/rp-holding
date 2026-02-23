@@ -1,0 +1,20 @@
+<svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg" height="64" width="64">
+  <defs>
+    <linearGradient id="orangeGradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff8c00;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff6b1a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- R circle -->
+  <path d="M 40 50 A 30 30 0 0 1 70 20" stroke="url(#orangeGradient2)" stroke-width="8" fill="none" stroke-linecap="round"/>
+  
+  <!-- R line -->
+  <line x1="70" y1="20" x2="50" y2="90" stroke="#0f3a52" stroke-width="7" stroke-linecap="round"/>
+  
+  <!-- P circle -->
+  <path d="M 100 50 A 30 30 0 0 1 130 20" stroke="url(#orangeGradient2)" stroke-width="8" fill="none" stroke-linecap="round"/>
+  
+  <!-- P line -->
+  <line x1="130" y1="20" x2="110" y2="90" stroke="#0f3a52" stroke-width="7" stroke-linecap="round"/>
+</svg>
