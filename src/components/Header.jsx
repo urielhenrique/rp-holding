@@ -23,7 +23,7 @@ export default function Header() {
             className="flex items-center gap-3 hover:opacity-80 transition-opacity"
           >
             <img
-              src="/Logo-RpHolding.svg"
+              src="/logo.svg"
               alt="RP Holding Logo"
               className="w-10 h-10 md:w-12 md:h-12"
             />
